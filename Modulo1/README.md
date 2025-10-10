@@ -1,4 +1,4 @@
-# Módulo A: Conhecendo o JavaScript
+# Módulo 1: Conhecendo o JavaScript
 
 ## Aula 1 – O que o JavaScript é capaz de fazer?
 
