@@ -23,5 +23,3 @@ disponível no [Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/)
 
 **10 de Outubro de 2025**
 <hr>
-
-teste
