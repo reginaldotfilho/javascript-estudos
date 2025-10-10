@@ -10,7 +10,7 @@ Estudar JavaScript de forma prática, com anotações e códigos simples para re
 
 <h1 align=>Módulos do curso</h1>
 
-- 📘 [Módulo A: Conhecendo o JavaScript](modulo-1-conhecendo-javascript)
+- 📘 [Módulo A: Conhecendo o JavaScript](Modulo1)
 - 🧱 [Módulo B: Comandos Básicos do JavaScript](./ModuloB-Comandos-Basicos/anotacoes.md)
 - 🖼️ [Módulo C: Entendendo o DOM](./ModuloC-DOM/anotacoes.md)
 - ⚙️ [Módulo D: Condições em JavaScript](./ModuloD-Condicoes/anotacoes.md)
