@@ -15,7 +15,7 @@ Estudar JavaScript de forma prática, com anotações e códigos simples para re
 - 🖼️ [Módulo 3: Entendendo o DOM](modulo-3)
 - ⚙️ [Módulo 4: Condições em JavaScript](modulo-4)
 - 🔁 [Módulo 5: Repetições em JavaScript](modulo-5)
-- 🚀 [Módulo 6: Avançando os Estudos](./ModuloF-Avancando/anotacoes.md)
+- 🚀 [Módulo 6: Avançando os Estudos](modulo-6)
 
 disponível no [Curso em Vídeo](https://www.cursoemvideo.com/curso/javascript/).
 
