@@ -1,5 +1,7 @@
 # Módulo 1: Conhecendo o JavaScript
 
+### Anotações
+
 ## Aula 1 – O que o JavaScript é capaz de fazer?
 
 o javaScript é a parte do programdor , sendo resposável pelas **interações e integrações** em um website.
@@ -28,6 +30,14 @@ O JavaScript surgiu como uma tecnologia  para o clientes, e de forma fundamental
 
 ## Aula 2 - JavaScript: como chegamos até aqui? 
 
+
+
+
+
 ## Aula 3 - Dando os primeiros passos
+
+
+
+
 
 ## Aula 4 – Criando o seu primeiro script
