@@ -1,3 +1,5 @@
+![Github License](https://img.shields.io/github/license/reginaldotfilho/javascript-estudos)
+
 
 <hr>
 <h1 align=>JavaScript-Estudos</h1>
