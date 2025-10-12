@@ -12,8 +12,8 @@ Estudar JavaScript de forma prática, com anotações e códigos simples para re
 
 - 📘 [Módulo 1: Conhecendo o JavaScript](Modulo-1)
 - 🧱 [Módulo 2: Comandos Básicos do JavaScript](modulo-2)
-- 🖼️ [Módulo C: Entendendo o DOM](./ModuloC-DOM/anotacoes.md)
-- ⚙️ [Módulo D: Condições em JavaScript](./ModuloD-Condicoes/anotacoes.md)
+- 🖼️ [Módulo C: Entendendo o DOM](modulo-3)
+- ⚙️ [Módulo D: Condições em JavaScript](modulo-4)
 - 🔁 [Módulo E: Repetições em JavaScript](./ModuloE-Repeticoes/anotacoes.md)
 - 🚀 [Módulo F: Avançando os Estudos](./ModuloF-Avancando/anotacoes.md)
 
