@@ -52,7 +52,7 @@ São nomes parecidos, mas linguagens totalmente diferentes. Java é pra aplicaç
 
 ### ECMAScript - o padrão do JavaScript
 
-- **ECMAScript é o **padrão oficial** que define como o JavaScript deve funcionar
+- **ECMAScript** é o **padrão oficial** que define como o JavaScript deve funcionar
 - Criado pela **ECMA International**
 - Cada nova versão traz melhorias
 - **ES5:** versão estável e antiga
@@ -70,7 +70,9 @@ JavaScript virou uma linguagem completa, está em todo lugar, tanto no navegador
 ### A Tríade da Web
 
 HTML - Estrutura - Monta o conteúdo
+
 CSS - Aparência - Deixa o site bonito
+
 JAVASCRIPT - Comportamento - Faz tudo se mexer e reagir
 
 O JS é o **Cérebro** da página, ele reage, calcula, valida e faz  tudo funcionar dinâmicamente.
@@ -93,7 +95,19 @@ Aprender bem JavaScript [e dominar o centro da web. É uma das linguagens com ma
 - **2015** - Chega o ES6, Grande atualização.
 - **hoje** - JavaScript domina o mundo da programação web.
 
- **JavaScript dá vida a Web.**
+### Conceitos
+
+**JavaScript é:**
+
+- Interpretado (Roda direto, Sem precisar compilar).
+- Dinâmico (muda tipos e valores facilmete).
+- Multi-plataforma (roda em vários dispositivos).
+- Interativo (responde as ações do usuário).
+
+ **"JavaScript dá vida a Web".**
+
+ <hr>
+ <hr>
 - 
 
 
