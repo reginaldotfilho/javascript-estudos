@@ -113,8 +113,55 @@ Aprender bem JavaScript [e dominar o centro da web. É uma das linguagens com ma
 
 ## Aula 3 - Dando os primeiros passos
 
+### INSTALAR O VISUAL STUDIO
+Link para download:
 
+https://visualstudio.microsoft.com/pt-br/downloads/
 
+**Passo a passo:**
+
+- Acesse o link acima.
+
+- Clique em "Baixar" na versão Visual Studio Community (é gratuita).
+
+- Após baixar o instalador (vs_community.exe), execute-o.
+
+ **Siga o instalador:**
+
+- No instalador, marque as cargas de trabalho que precisa. Se for para Node.js e GitHub:
+
+- Marque: "Desenvolvimento com Node.js"
+
+- (Opcional) Marque também: "Desenvolvimento para desktop com C++" ou outras linguagens que for usar.
+
+- Clique em Instalar.
+
+- Aguarde o download e instalação.
+
+- Após instalado, abra o Visual Studio.
+
+### INSTALAR O NODE.JS
+**Link para download:**
+
+https://nodejs.org/en/download
+
+**Passo a passo:**
+
+- Acesse o link acima.
+
+- Baixe a versão recomendada para a maioria dos usuários (LTS, geralmente).
+
+- Execute o instalador (node-vxx.x.x-x64.msi).
+
+**Siga o instalador:**
+
+- Aceite os termos.
+
+- Deixe as opções padrão marcadas.
+
+- Marque a opção para instalar o npm (gerenciador de pacotes do Node).
+
+- Finalize a instalação.
 
 
 ## Aula 4 – Criando o seu primeiro script
